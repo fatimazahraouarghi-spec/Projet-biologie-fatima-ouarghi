@@ -1,0 +1,13 @@
+Données d'observations biologiques
+------------------------------------
+Espèce : Plante verte
+Lieu : Laboratoire
+Date : 2025-12-06
+
+Mesures :
+- Hauteur : 12 cm
+- Couleur : Vert clair
+- Humidité : 60%
+- Température : 23°C
+
+Auteur : Fatima Zahra
